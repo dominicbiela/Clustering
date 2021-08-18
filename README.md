@@ -23,7 +23,7 @@ In preparation for modeling, outliers we identified and limited. Of the data, 96
  ![Cluster bar](https://user-images.githubusercontent.com/25266458/129878225-7043de03-b5e1-4342-989c-643fa2153b01.png)
  
  
- Figure 2​ - The outliers plotted on a boxplot, showing the specific ranges of each variable and the areas on where to focus.
+ _Figure 1​ - The outliers plotted on a boxplot, showing the specific ranges of each variable and the areas on where to focus._
 
 
 
@@ -36,4 +36,17 @@ where the axes calibrate to become similar to each other, and scaled based on th
 ![Error points](https://user-images.githubusercontent.com/25266458/129878273-73b72740-f886-4ccc-b93e-116348592333.png)
 
 
- Figure 3​ - The before and after the removals of outliers, displayed on a 3D projection.
+ _Figure 2​ - The before and after the removals of outliers, displayed on a 3D projection._
+ 
+ 
+ **Results**
+ 
+ 
+ ![Clustered](https://user-images.githubusercontent.com/25266458/129878713-8d79d13e-0b9c-4930-84ea-8f0997dfb0b3.png)
+
+_Figure 3 - 3D plotted dataset - colour coded for the different clusters._
+
+
+![Clustered chart](https://user-images.githubusercontent.com/25266458/129878748-67ae84e4-4c93-4b2d-ae46-687c08f3ef0f.png)
+
+_Figure 4 - Boxplot of the 3 variables broken down by the four clusters. Colours in the boxplot match the colours of the clusters in Figure 3._
