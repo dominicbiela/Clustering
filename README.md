@@ -39,6 +39,8 @@ Furthermore, each variable was scaled, as Euclidean distance is sensitive to the
  
  
  
+ 
+ 
  **Results**
  
  
