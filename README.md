@@ -39,8 +39,12 @@ where the axes calibrate to become similar to each other, and scaled based on th
  _Figure 2​ - The before and after the removals of outliers, displayed on a 3D projection._
  
  
+ 
+ 
  **Results**
  
+ 
+
  
  ![Clustered](https://user-images.githubusercontent.com/25266458/129878713-8d79d13e-0b9c-4930-84ea-8f0997dfb0b3.png)
 
@@ -50,3 +54,13 @@ _Figure 3 - 3D plotted dataset - colour coded for the different clusters._
 ![Clustered chart](https://user-images.githubusercontent.com/25266458/129878748-67ae84e4-4c93-4b2d-ae46-687c08f3ef0f.png)
 
 _Figure 4 - Boxplot of the 3 variables broken down by the four clusters. Colours in the boxplot match the colours of the clusters in Figure 3._
+
+
+From Figures 3 and 4, it is clear that cluster 1 would be classed as the ‘Best Customers’ due to significantly higher spend, much more than the other clusters. Additionally, the average frequency of purchases is higher and the recency of the latest purchase, on average, a lot lower.
+
+Whilst cluster 2 appears to be the least valuable and more related to ‘Lost Customers’. The mean last purchase is over a year ago, with the frequency and monetary value of their purchases extremely low. However, it means that around a third of the consumer base show little signs of interaction.
+
+Cluster 3 is considered the second best, as the recency remains low, however, the recency range of data points is the largest of all four clusters. The frequency and monetary values are relatively high.
+
+Finally, cluster 0, it contains the most number of customers with 2,924. In Figure 10, cluster 0 sits on similar axes as cluster 2, however, the recency is significantly lower, supported in Figure 4. The recency range is the lowest, therefore the customers are still current, but the frequency and monetary averages remain low.
+
