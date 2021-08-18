@@ -28,10 +28,8 @@ In preparation for modeling, outliers we identified and limited. Of the data, 96
 
 
 When visualising the data on a 3D projection, Figure 3, it is clear that removing the outliers from the dataset greatly helps focus more towards the bulk of the data.
-Furthermore, each variable was scaled, as Euclidean distance is sensitive to the scales or magnitude of the attributes, therefore the values would need standardising and brought into homogeneous ranges (Mohamad & Usman, 2013). The impact can be seen in Figure 4,
-3
+Furthermore, each variable was scaled, as Euclidean distance is sensitive to the scales or magnitude of the attributes, therefore the values would need standardising and brought into homogeneous ranges.
 
-where the axes calibrate to become similar to each other, and scaled based on their magnitudes.
 
 ![Error points](https://user-images.githubusercontent.com/25266458/129878273-73b72740-f886-4ccc-b93e-116348592333.png)
 
