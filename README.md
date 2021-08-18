@@ -1,4 +1,4 @@
-# Clustering-and-Association-Rules
+# Clustering
 
 **Application background**
 
